@@ -1,0 +1,3 @@
+module CREATE_WEB_SERVER
+
+go 1.20
